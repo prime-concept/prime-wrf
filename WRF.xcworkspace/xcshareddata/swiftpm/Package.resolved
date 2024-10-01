@@ -1,0 +1,14 @@
+{
+  "originHash" : "4e26e83536b99ba5775d93a24560123ceb6d9b8cafa63ce46010da3a3f407a5a",
+  "pins" : [
+    {
+      "identity" : "primecomponents",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git.lgn.me/prime/prime-2/PrimeComponents",
+      "state" : {
+        "revision" : "a1c358f004e06b0f42e0b995ac4ac9b37f3ba033"
+      }
+    }
+  ],
+  "version" : 3
+}

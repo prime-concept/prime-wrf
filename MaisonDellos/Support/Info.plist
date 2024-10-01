@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.digitaltechnologies.maison-dellos</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>dellos</string>
+			</array>
+		</dict>
+	</array>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Ubuntu-Regular.ttf</string>
+		<string>Ubuntu-Italic.ttf</string>
+		<string>Ubuntu-Medium.ttf</string>
+		<string>Ubuntu-Light.ttf</string>
+		<string>Ubuntu-Bold.ttf</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,256 @@
+{
+  "myCardQRCodeViewAppearance": {
+    "qrTintColor": {
+      "id": "backgroundColorInverse1"
+    },
+    "overlayRoundViewRetryColor": {
+      "id": "black"
+    },
+    "qrCodeAlphaDisabled": 0.1,
+    "cardNumberTextColor": {
+      "id": "textPrimary"
+    },
+    "spacing": 5,
+    "overlayRoundViewLoadingColor": {
+      "id": "white"
+    },
+    "refreshButtonTintColor": {
+      "id": "white"
+    },
+    "qrImageSize": [
+      100,
+      100
+    ],
+    "cardNumberEditorLineHeight": 14,
+    "overlayRoundViewSize": [
+      52,
+      52
+    ]
+  },
+  "certificatesNavigationViewAppearance": {
+    "certificatesTextColor": {
+      "id": "textPrimary"
+    },
+    "cardCornerRadius": 4,
+    "shadowColor": {
+      "id": "black"
+    },
+    "shadowOpacity": 0.1,
+    "cornerRadius": 10,
+    "countColor": {
+      "id": "textSecondary"
+    },
+    "shadowRadius": 4,
+    "backgroundColor": {
+      "id": "backgroundColor1"
+    },
+    "accentСolor": {
+      "id": "accentСolor"
+    }
+  },
+  "profileSettingsViewAppearance": {
+    "logoutButtonIconSize": [
+      13,
+      15
+    ],
+    "logoutButtonSize": [
+      174,
+      40
+    ],
+    "logoutButtonTopInset": 20,
+    "backgroundColor": {
+      "id": "backgroundColor0"
+    },
+    "tableViewOffset": 23,
+    "logoutButtonTextColor": {
+      "id": "textSecondaryInverse"
+    },
+    "logoutButtonBackgroundColor": {
+      "id": "backgroundColor2"
+    },
+    "logoutButtonRightInset": 20,
+    "logoutButtonLeftInset": 20,
+    "settingItemHeight": 48
+  },
+  "cardHeaderViewAppearance": {
+    "discountLabelEditorLineHeight": 23,
+    "logoInsets": [
+      10,
+      15,
+      0,
+      0
+    ],
+    "discountLabelColor": {
+      "id": "textPrimary"
+    },
+    "pointsLabelInsets": [
+      20,
+      0,
+      0,
+      20
+    ],
+    "pointsLabelColor": {
+      "id": "textPrimary"
+    },
+    "logoSize": [
+      62,
+      43
+    ],
+    "pointsLabelEditorLineHeight": 23
+  },
+  "emptyDataViewAppearance": {
+    "iconSize": [
+      90,
+      90
+    ],
+    "titleColor": {
+      "id": "textPrimary"
+    },
+    "backgroundColor": {
+      "id": "clear"
+    },
+    "titleEditorLineHeight": 22,
+    "spacing": 20
+  },
+  "settingsItemViewAppearance": {
+    "stackSpacing": 0,
+    "iconSize": [
+      44,
+      44
+    ],
+    "itemTitleColor": {
+      "id": "textPrimary"
+    },
+    "itemTitleEditorLineHeight": 17
+  },
+  "wrfBarButtonAppearance": {
+    "tabBarButtonColor": {
+      "id": "gray"
+    },
+    "badgeLabelTextInsets": [
+      0,
+      4,
+      0,
+      4
+    ],
+    "badgeLabelTextColor": {
+      "id": "white"
+    },
+    "tabBarTintColor": {
+      "id": "textSecondary"
+    },
+    "itemLabelOffset": 10,
+    "badgeLabelColor": {
+      "id": "danger"
+    },
+    "badgeLabelCornerRadius": 6,
+    "tabBarButtonSelectedColor": {
+      "id": "textPrimary"
+    },
+    "tabBarEditorLineHeight": 17
+  },
+  "cardViewAppearance": {
+    "loadingViewBackgroundColor": {
+      "id": "black"
+    },
+    "overlayGradientColors": [
+      {
+        "id": "backgroundColor1"
+      },
+      {
+        "id": "backgroundColor1"
+      }
+    ],
+    "imageTintColor": {
+      "id": "white"
+    },
+    "rectangleGradientColor": {
+      "id": "white",
+      "hex":"FFFFFF",
+      "alpha":0.4
+    },
+    "cornerRadius": 15,
+    "userViewInsets": [
+      0,
+      20,
+      20,
+      20
+    ],
+    "userViewHeight": 50,
+    "qrCodeImageViewInsets": [
+      0,
+      0,
+      10,
+      20
+    ]
+  },
+  "userViewAppearance": {
+    "cardTypeLabelBorderColor": {
+      "id": "clear"
+    },
+    "cardTypeLabelInsets": [
+      4,
+      10,
+      4,
+      10
+    ],
+    "cardTypeLabelTextColor": {
+      "id": "textPrimary"
+    },
+    "nameLabelColor": {
+      "id": "textPrimary"
+    },
+    "cardTypeLabelCornerRadius": 10,
+    "cardTypeLabelBackgroundColor": {
+      "id": "backgroundColorBrand"
+    },
+    "cardTypeLabelTopOffset": 5,
+    "cardTypeLabelBorderWidth": 1,
+    "userImageSize": [
+      50,
+      50
+    ],
+    "containerViewLeftOffset": 10,
+    "nameLabelEditorLineHeight": 17
+  },
+  "profileViewAppearance": {
+    "tabBarTintColor": {
+      "id": "strokeStrong"
+    },
+    "separatorHeight": 1,
+    "backgroundColor": {
+      "id": "backgroundColor0"
+    },
+    "profileIconSize": [
+      25,
+      25
+    ],
+    "separatorColor": {
+      "id": "strokeSecondary"
+    },
+    "tabBarWeight": 1,
+    "settingsIconSize": [
+      16,
+      16
+    ],
+    "titleLabelTextColor": {
+      "id": "textPrimary"
+    },
+    "tabContentTopOffset": 59,
+    "tabBarHeight": 45,
+    "tabBarColor": {
+      "id": "backgroundColor0"
+    },
+    "titleEditorLineHeight": 20
+  },
+  "gradientRectangleViewAppearance": {
+    "gradientColors": [
+      {
+        "id": "white"
+      },
+      {
+        "id": "clear"
+      }
+    ]
+  }
+}
